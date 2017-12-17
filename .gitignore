@@ -1,0 +1,6 @@
+*.png
+*.wav
+output/
+deepOutput/
+*.h5
+*.pvp
