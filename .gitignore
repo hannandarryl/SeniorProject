@@ -4,3 +4,11 @@ output/
 deepOutput/
 *.h5
 *.pvp
+
+!exampleaudio.png
+!examplevision.png
+!imgrecon.png
+!modifiedmodel.png
+!sharedgraph.png
+!sparsegraph.png
+!standardmodel.png
