@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  17 DEC 2017 22:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  19 DEC 2017 16:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -276,8 +276,11 @@ File: images/sparsegraph.png Graphic file (type png)
 <use images/sparsegraph.png>
 Package pdftex.def Info: images/sparsegraph.png used on input line 552.
 (pdftex.def)             Requested size: 372.18391pt x 193.11807pt.
- [2 <./images/standardmodel.png> <./images/imgrecon.png>] <images/modifiedmodel
-.png, id=23, 471.7625pt x 313.17pt>
+ [2 <./images/standardmodel.png> <./images/imgrecon.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+<images/modifiedmodel.png, id=23, 471.7625pt x 313.17pt>
 File: images/modifiedmodel.png Graphic file (type png)
 
 <use images/modifiedmodel.png>
@@ -309,11 +312,7 @@ Before submitting the final camera ready copy, remember to:
 
 [4
 
- <./images/modifiedmodel.png>] (./mcgurk.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+ <./images/modifiedmodel.png>] (./mcgurk.aux) ) 
 Here is how much of TeX's memory you used:
  2385 strings out of 492995
  39663 string characters out of 6132704
@@ -322,12 +321,12 @@ Here is how much of TeX's memory you used:
  39736 words of font info for 73 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  39i,8n,25p,1036b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
-exlive/2017/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
-7/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2017/texmf-d
-ist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on mcgurk.pdf (4 pages, 468934 bytes).
+{/usr/local/texlive/2017/texmf-d
+ist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2017/texmf-dist/fonts/type1
+/urw/times/utmb8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times
+/utmbi8a.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.p
+fb></usr/local/texlive/2017/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on mcgurk.pdf (4 pages, 468989 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
